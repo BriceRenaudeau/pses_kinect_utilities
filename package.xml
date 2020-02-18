@@ -28,6 +28,8 @@
   <depend>depth_image_proc</depend>
   <depend>nodelet</depend>
   <depend>libopencv-dev</depend>
+  <depend>opencl-headers</depend>
+  <depend>ocl-icd-opencl-dev</depend>
 
   <export>
     <rosdoc config="rosdoc.yaml" />
