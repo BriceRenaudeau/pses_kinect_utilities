@@ -17,6 +17,7 @@ Clone the repo into your ROS src folder:
 
 `cd ..`
 
+
 Install all dependencies of the package:
 
 `rosdep install pses_kinect_utilities`
